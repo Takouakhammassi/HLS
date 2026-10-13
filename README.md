@@ -61,8 +61,8 @@ To reproduce the datasets of the article, change `N_FILES` (and `OUTPUT_DIR`) an
 
 ```
 <output-dir>/
-├── small_files/        # small_0000.txt, small_0001.txt, ...
-└── dataset_index.csv   # file_id, size_bytes, total_access, S1 ... Sm
+├── small_files/        
+└── dataset_index.csv   
 ```
 
 `dataset_index.csv` has one row per file, with its actual size in bytes, its total number of accesses and its number of accesses from each site.
