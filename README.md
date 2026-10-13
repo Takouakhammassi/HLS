@@ -4,7 +4,7 @@ Code to generate the synthetic datasets and workloads used in the article:
 
 > H. Chettaoui and T. Khammassi, *Integrating Hellinger-based Correlation Assessment with Louvain Community Detection for Solving the Small Files Problem in a Big Data Context*, 2026.
 
-**HLS** (Hellinger and Louvain-based Solution) is a strategy that merges correlated small files into larger files in HDFS. This repository only contains the **dataset and workload generator** described in Section 4 and used in Section 5 of the article.
+**HLS** (Hellinger and Louvain-based Solution) is a strategy that merges correlated small files into larger files in HDFS. This repository contains the **dataset and workload generator** described in Section 4 and used in Section 5 of the article.
 
 ## Workload model
 
