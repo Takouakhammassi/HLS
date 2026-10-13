@@ -72,11 +72,3 @@ At the end of the run, the script prints the size distribution obtained against 
 ## Reproducibility
 
 All random draws are controlled by `--seed` (default `42`). With the same parameters and the same NumPy version, the generated tables are identical from one run to another.
-
-## Citation
-
-If you use this code, please cite the article above.
-
-## License
-
-Released under the MIT License (see [`LICENSE`](LICENSE)).
