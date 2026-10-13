@@ -12,7 +12,7 @@ The workload is a tuple `W = (F, S, A)`:
 
 | Component | Description | Model |
 |---|---|---|
-| `F` | set of small text files `small_0000.txt`, `small_0001.txt`, … | — |
+| `F` | set of small text files `small_0000.txt`, `small_0001.txt`, … | - |
 | `S` | file sizes, between 1 KB and 5 MB | drawn by size bucket (see below), uniform within each bucket |
 | `A` | accesses of each file across `m` sites | total popularity per file: Zipf (`s = 1.2`, log-scaled to `[1, 1001]`); split over sites: Dirichlet (`α = 0.5`) |
 
