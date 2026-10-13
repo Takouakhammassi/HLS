@@ -1,4 +1,4 @@
-# HLS — Dataset generation
+# HLS - Dataset generation
 
 Code to generate the synthetic datasets and workloads used in the article:
 
